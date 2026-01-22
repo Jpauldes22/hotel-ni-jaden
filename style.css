@@ -5,7 +5,7 @@
   --primary-color-dark: #bc1c5c;
   --text-dark: #0c0a09;
   --text-light: #78716c;
-  --white: #ffffff;
+  --white: #151414;
   --max-width: 1200px;
 }
 
@@ -603,3 +603,4 @@ nav {
     gap: 2rem;
   }
 }
+
